@@ -1,0 +1,4 @@
+fn main() {
+    println!(r#"<a href="link.html">link</a>"#);
+    println!("<a href=\"link.html\">link</a>");
+}
